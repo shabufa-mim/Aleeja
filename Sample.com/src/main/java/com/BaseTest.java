@@ -6,5 +6,9 @@ public class BaseTest {
 		
 		System.out.println("Hello");
 		
+		
+	}
+	public void def() {
+		System.out.println("hi");
 	}
 }
